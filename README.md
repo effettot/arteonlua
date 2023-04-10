@@ -1,2 +1,3 @@
 # puzleonlua
-puzle on lia 
+puzle on lua
+
